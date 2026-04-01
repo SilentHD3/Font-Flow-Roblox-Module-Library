@@ -47,7 +47,7 @@ LoadedAnims.Idle = Animator:LoadAnimation(Animations.Idle)
 LoadedAnims.Walk = Animator:LoadAnimation(Animations.Walk)
 LoadedAnims.Run = Animator:LoadAnimation(Animations.Run)
 
-print("Animations loaded: Idle, Walk, Run") -- yes, I know this could be fancier
+print("Animations loaded: Idle, Walk, Run")
 
 --// Dialogue
 local Dialogues = {
